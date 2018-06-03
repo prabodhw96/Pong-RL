@@ -10,3 +10,6 @@ The aim is to implement Reinforcement Learning concepts to make the AI win at th
 
 ## Usage
 Run ``python pong.py``
+
+### Screenshot
+![](screenshot.png)
